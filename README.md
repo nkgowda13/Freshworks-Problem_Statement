@@ -1,2 +1,2 @@
-Problem statement provided by Freshworks,\n
+Problem statement provided by Freshworks,
 Implemented using Jupyter notebook and Pycharm
